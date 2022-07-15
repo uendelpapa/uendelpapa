@@ -2,7 +2,6 @@
 
 - 👾 Front-end Developer
 - 🌱 Estudando Javascript, Typescript, ReactJs, ReactNative, NodeJs
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -12,14 +11,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="Del-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Del-Ts" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" alt="Del-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="left" alt="Del-Php" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Del-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Del-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Del-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
-  <img align="right" alt="Del-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="left" alt="Del-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Del-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="left" alt="Del-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="Del-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="right" alt="Del-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Del-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Del-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" >
+  <img align="right" alt="Del-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
   
   ##
   
