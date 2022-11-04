@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Uendel 👋
 
 - 👾 Front-end Developer
-- 🌱 Estudando Javascript, Typescript, ReactJs, ReactNative, NodeJs
+- 🌱 Estudando Javascript, Typescript, ReactJs, ReactNative
 - 😄 Pronouns: ele/dele
 
 <div align="center">
