@@ -2,7 +2,7 @@
 
 - 👾 Front-end Developer
 - 🌱 Estudando Javascript, Typescript, ReactJs, ReactNative
-- 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/uendelpapa">
