@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/uendelpapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uendelpapa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langsl/?username=uendelpapa&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
