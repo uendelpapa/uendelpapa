@@ -6,7 +6,7 @@
   <a href="https://github.com/uendelpapa">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uendelpapa&show_icons=true&theme=merko)
-  <img height="195rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&langs_count=7&theme=merko"/>
 </div>
  <br>
 <div style="display: flex-column"><br>
