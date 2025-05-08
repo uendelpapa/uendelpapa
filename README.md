@@ -24,8 +24,8 @@ Aqui você vai encontrar aplicações full stack, componentes reutilizáveis, ex
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/uendel-papa-1b6294211)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-uendelup.vercel.app/)
 
 ---
 
