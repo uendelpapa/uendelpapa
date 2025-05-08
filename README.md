@@ -1,13 +1,3 @@
-<h1 align="center">Olá! Eu sou o Uendel 👋</h1>
-
-<p align="center">
-  Desenvolvedor <strong>Frontend</strong> focado em <strong>React</strong> e apaixonado por transformar ideias em interfaces incríveis 💻✨
-</p>
-
----
-
-### 🚀 Tech Stack & Ferramentas
-
 <style>
   .tech-grid {
     display: flex;
@@ -45,6 +35,18 @@
     text-align: center;
   }
 </style>
+
+<h1 align="center">Olá! Eu sou o Uendel 👋</h1>
+
+<p align="center">
+  Desenvolvedor <strong>Frontend</strong> focado em <strong>React</strong> e apaixonado por transformar ideias em interfaces incríveis 💻✨
+</p>
+
+---
+
+### 🚀 Tech Stack & Ferramentas
+
+
 
 <div class="tech-grid">
   <div class="tech-item">
