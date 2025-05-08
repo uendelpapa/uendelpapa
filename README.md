@@ -1,29 +1,36 @@
 ### Bem-Vindo, Eu sou o Uendel 👋
+# 👋 Olá! Eu sou um desenvolvedor React
 
-- 👾 Front-end Developer | Estudando ReactJS, ReactNative, Typescript, NodeJS.
+Sou um entusiasta da tecnologia com foco em desenvolvimento web moderno. Amo transformar ideias em interfaces funcionais e intuitivas. Atualmente, trabalho com foco em React e sua poderosa stack de suporte.
 
-<div align="center">
-  <a href="https://github.com/uendelpapa">
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uendelpapa&show_icons=true&theme=merko)
-  <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&langs_count=7&theme=merko"/>
-</div>
- <br>
-<div style="display: flex-column"><br>
-  <img align="left" alt="Del-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="Del-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="left" alt="Del-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Del-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Del-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Del-Tailwindcss" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s">
-  
-  ##
- </div>
- <br>
-<div> 
-  <a href="https://instagram.com/uendel.up" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "uendelpapa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/uendel-papa-1b6294211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🚀 Tecnologias & Ferramentas que uso
+
+**Frontend**
+- ⚛️ React
+- ⏭ Next.js
+- ⚡ Vite
+- 💅 TailwindCSS
+- 🎨 HTML, CSS, JavaScript, TypeScript
+
+**Backend**
+- 🌐 Node.js
+- 🧬 Prisma ORM
+- 🐘 PostgreSQL
+- 🐳 Docker
+
+## 📦 Meus repositórios refletem projetos pessoais, estudos e soluções reais
+
+Aqui você vai encontrar aplicações full stack, componentes reutilizáveis, experimentos com novas tecnologias e boas práticas de código.
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
+
+---
+
+✨ Estou sempre em busca de novos desafios e oportunidades para aprender mais e colaborar com outros devs!
+
   
   ![Snake animation](https://github.com/uendelpapa/uendelpapa/blob/output/github-contribution-grid-snake.svg)     
 
