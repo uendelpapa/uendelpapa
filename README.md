@@ -37,7 +37,7 @@
 
 ### 🌐 Onde me encontrar
 
-<div align="center">
+<div align="left">
   <a href="https://portfolio-uendelup.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -50,7 +50,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="start">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uendelpapa&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&theme=radical" />
 </div>
