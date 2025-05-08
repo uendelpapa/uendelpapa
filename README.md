@@ -1,41 +1,60 @@
-### Bem-Vindo, Eu sou o Uendel 👋
-# 👋 Olá! Eu sou um desenvolvedor React
+<h1 align="center">Olá! Eu sou o Uendel 👋</h1>
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento web moderno. Amo transformar ideias em interfaces funcionais e intuitivas.
-
-## 🚀 Tecnologias & Ferramentas que uso
-
-**Frontend**
-- ⚛️ React
-- ⏭ Next.js
-- ⚡ Vite
-- 💅 TailwindCSS
-- 🎨 HTML, CSS, JavaScript, TypeScript
-
-**Backend**
-- 🌐 Node.js
-- 🧬 Prisma ORM
-- 🐘 PostgreSQL
-- 🐳 Docker
-
-## 📦 Meus repositórios refletem projetos pessoais, estudos e soluções reais
-
-Aqui você vai encontrar aplicações full stack, componentes reutilizáveis, experimentos com novas tecnologias e boas práticas de código.
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/uendel-papa-1b6294211)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-uendelup.vercel.app/)
+<p align="center">
+  Desenvolvedor <strong>Frontend</strong> focado em <strong>React</strong> e apaixonado por transformar ideias em interfaces incríveis 💻✨
+</p>
 
 ---
 
-✨ Estou sempre em busca de novos desafios e oportunidades para aprender mais e colaborar com outros devs!
+### 🚀 Tech Stack & Ferramentas
 
-  
-  ![Snake animation](https://github.com/uendelpapa/uendelpapa/blob/output/github-contribution-grid-snake.svg)     
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
 </div>
-        
-   
-    
 
+---
+
+### 👨‍💻 Sobre mim
+
+- 💡 Criativo e focado em soluções práticas com código limpo
+- 🛠️ Sempre aprendendo e explorando novas tecnologias
+- 🖌️ UI/UX lover – uso o **Figma** para prototipar ideias antes de codar
+- 🔍 Busco desafios que envolvam performance, acessibilidade e boas práticas
+
+---
+
+### 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://portfolio-uendelup.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/uendel-papa-1b6294211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uendelup&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelup&layout=compact&theme=radical" />
+</div>
+
+---
+
+> “Código é como humor. Quando você tem que explicar, não é tão bom.” – Cory House
