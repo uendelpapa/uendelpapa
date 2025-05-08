@@ -3,6 +3,7 @@
 <p align="center">
   Desenvolvedor <strong>Frontend</strong> focado em <strong>React</strong> e apaixonado por transformar ideias em interfaces incríveis 💻✨
 </p>
+
 ---
 
 ### 🚀 Tech Stack & Ferramentas
