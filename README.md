@@ -1,41 +1,3 @@
-<style>
-  .tech-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-top: 12px;
-  }
-
-  .tech-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 90px;
-    padding: 10px;
-    border-radius: 12px;
-    background-color: #1e1e1e;
-    transition: 0.3s;
-    box-shadow: 0 0 0 transparent;
-  }
-
-  .tech-item:hover {
-    box-shadow: 0 0 10px rgba(0, 255, 170, 0.6);
-    transform: translateY(-4px);
-  }
-
-  .tech-item img {
-    width: 32px;
-    height: 32px;
-  }
-
-  .tech-item span {
-    margin-top: 8px;
-    color: #ffffff;
-    font-size: 13px;
-    text-align: center;
-  }
-</style>
-
 <h1 align="center">Olá! Eu sou o Uendel 👋</h1>
 
 <p align="center">
@@ -46,63 +8,21 @@
 
 ### 🚀 Tech Stack & Ferramentas
 
-
-
-<div class="tech-grid">
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <span>React</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <span>Next.js</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <span>JavaScript</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <span>TypeScript</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <span>HTML</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <span>CSS</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" />
-    <span>Tailwind</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <span>Node.js</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-    <span>Prisma</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <span>PostgreSQL</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <span>Docker</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
-    <span>Vite</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <span>Figma</span>
-  </div>
-</div>
-
+<p align="left">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" /></a>
+  <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" width="40" alt="TailwindCSS" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /></a>
+</p>
 
 ---
 
