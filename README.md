@@ -3,7 +3,6 @@
 <p align="center">
   Desenvolvedor <strong>Frontend</strong> focado em <strong>React</strong> e apaixonado por transformar ideias em interfaces incríveis 💻✨
 </p>
-![Tech Stack](URL_DA_IMAGEM_GERADA)
 ---
 
 ### 🚀 Tech Stack & Ferramentas
@@ -44,15 +43,6 @@
   <a href="https://www.linkedin.com/in/uendel-papa-1b6294211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uendelpapa&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uendelpapa&layout=compact&theme=radical" />
 </div>
 
 ---
