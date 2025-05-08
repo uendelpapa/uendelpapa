@@ -1,7 +1,7 @@
 ### Bem-Vindo, Eu sou o Uendel 👋
 # 👋 Olá! Eu sou um desenvolvedor React
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento web moderno. Amo transformar ideias em interfaces funcionais e intuitivas. Atualmente, trabalho com foco em React e sua poderosa stack de suporte.
+Sou um entusiasta da tecnologia com foco em desenvolvimento web moderno. Amo transformar ideias em interfaces funcionais e intuitivas.
 
 ## 🚀 Tecnologias & Ferramentas que uso
 
